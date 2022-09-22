@@ -1,0 +1,27 @@
+Modelled,raw,group,decomp_group,Cleaned,Percentage,,,,channel,FY19,FY20,FY21,,eviews reported,r reported
+"atan(lag(m_adtvv_tot_im70, 1)/900000)",0%,Media,Media,Addressable TV,1%," 539,120 ",,,Addressable TV,0,1571084.8,0.001477498," 1,571,085 ",1%,1%
+"atan(lag(m_cat_tot_vo15, 1)/30000)",0%,Media,Media,Catalog,1%," 4,400,735 ",,,Catalog,589860.2,489777.1,0," 1,079,637 ",1%,1%
+atan(m_ctv_tot_im/4500000),0%,Media,Media,CTV,0%," 2,670,745 ",,,CTV,45249.94122,133450.2721,40609.2517," 219,309 ",0%,0%
+atan(m_ctv_dig_tot_im50/440000),0%,Media,Media,CTV Digital,0%," 1,290,392 ",,,CTV Digital,0,0,334390.7473," 334,391 ",0%,0%
+atan(m_cstcon_tot_im/9000000),0%,Media,Media,Custom Content,0%," 5,737,719 ",,,Custom Content,43644.5142,25029.16667,94176.494," 162,850 ",0%,0%
+atan(m_digaud_tot_im/10000000),0%,Media,Media,Digital Audio,1%," 37,723,027 ",,,Digital Audio,492853.2996,538497.1022,774148.7397," 1,805,499 ",1%,1%
+"atan(lag(m_fbk_tot_im60, 1)/1600000)",3%,Media,Media,Facebook,14%," 63,435,810 ",,,Facebook,6029762.62,5830621.47,5145823.623," 17,006,208 ",14%,14%
+atan(fam_dm_vol/1240000),0%,Media,Media,Family DM,0%," 3,555,391 ",,,Family DM,85159.1007,134673.3263,14159.40884," 233,992 ",0%,0%
+atan(fam_eml_tot_opn30/710000),0%,Media,Media,Family Email,2%," 26,882,532 ",,,Family Email,663720.7698,506011.0174,875905.5452," 2,045,637 ",2%,2%
+atan(m_mag_tot_sp/250000),1%,Media,Media,Magazine,4%," 6,537,841 ",,,Magazine,2102026.889,150208.807,1710068.758," 3,962,304 ",3%,4%
+"atan(lag(m_tvv_post_egrp60, 2)/10)",2%,Media,Media,National TV,8%," 363,402 ",,,National TV,1876473.924,3772658.706,8521428.975," 14,170,562 ",12%,11%
+"atan(lag(m_tvv_pre_egrp50, 1)/150)",1%,Media,Media,National TV,3%," 740,444 ",,,OOH,838188.6324,90703.5366,11639.04003," 940,531 ",1%,1%
+atan(m_ooh_tot_im/10000000),0%,Media,Media,OOH,1%," 450,837 ",,,Paid Search Brand,282824.2484,468273.294,423595.4608," 1,174,693 ",1%,1%
+atan(m_ppc_bra_im/500000),0%,Media,Media,Paid Search Brand,1%," 3,742,708 ",,,Paid Search Feed Based,1927296.39,2092614.27,2334681.301," 6,354,592 ",5%,5%
+atan(m_ppc_fbased_im/200000),1%,Media,Media,Paid Search Feed Based,5%," 9,337,763 ",,,Paid Search Generic,4330745.9,2851775.27,4696558.82," 11,879,080 ",10%,10%
+atan(m_ppc_gen_im/200000),2%,Media,Media,Paid Search Generic,10%," 1,997,057 ",,,Pinterest,8648832.414,8924161.28,10106404.91," 27,679,399 ",23%,22%
+"atan(lag(m_pint_tot_im60, 1)/1200000)",5%,Media,Media,Pinterest,22%," 3,746,064 ",,,Prospecting Emails,1217723.12,586250.49,858805.7906," 2,662,779 ",2%,2%
+"atan(lag(m_eml_tot_im, 1)/900000)",1%,Media,Media,Prospecting Emails,2%," 13,853,596 ",,,Rich Media,1040521.226,454903.4029,104763.3543," 1,600,188 ",1%,1%
+"atan(lag(m_rchmed_tot_im, 1)/86000000)",0%,Media,Media,Rich Media,1%," 26,812,908 ",,,Snapchat,0,425147.61,411458.5319," 836,606 ",1%,1%
+atan(m_snap_tot_im/1500000),0%,Media,Media,Snapchat,1%," 2,029,784 ",,,Spot Radio,7203116.52,2833886.899,2998028.271," 13,035,032 ",11%,11%
+atan(m_spotrad_tot_egrp60/300),3%,Media,Media,Spot Radio,11%," 30,578,700 ",,,Spot TV,1539805.826,462466.8002,367429.6314," 2,369,702 ",2%,2%
+atan(m_spttvv_tot_egrp20/150),1%,Media,Media,Spot TV,2%," 5,327,881 ",,,Standard Display,1628384.06,1904314.665,1930930.443," 5,463,629 ",4%,5%
+atan(m_stddsp_tot_im15/28000000),1%,Media,Media,Standard Display,5%," 12,313,161 ",,,Tiktok,0,0,376719.2158," 376,719 ",0%,0%
+atan(m_tik_tot_im60/170000),0%,Media,Media,Tiktok,0%," 899,234 ",,,Video,1602472.883,1742914.439,2184369.579," 5,529,757 ",5%,4%
+atan(m_vid_tot_im10/6000000),1%,Media,Media,Video,4%," 11,910,015 ",,,,,,," 122,494,182 ",1,1
+,,,,,," 276,876,866 ",,,,,,,,,

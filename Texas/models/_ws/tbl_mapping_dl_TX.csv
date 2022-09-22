@@ -1,0 +1,1498 @@
+﻿actual.vars,Group_Base_Media_Price,Group_Base_MediaBreakDown_Price,Group_BaseBreakDown_MediaBreakDown_Price,Group_Modeller,Group_StackedBar,group,ref_points,agg_method,variable_display,isforecastable,brand/category_a,product/category_b,channel/category_c,platform/category_d,proposition/category_e,creative/category_f
+kpi_ts_tx,Base,Base,Total Sales,Total Sales,Total Sales,Total Sales,none,Sum,KPI,yes,na,na,na,na,na,na
+kpi_ss_tx_na,Base,Base,Store Sales,Store Sales,Store Sales,Store Sales,none,Sum,KPI,yes,na,na,na,na,na,na
+kpi_ss_tx,Base,Base,Store Sales,Store Sales,Store Sales,Store Sales,none,Sum,KPI,yes,na,na,na,na,na,na
+kpi_ws_tx,Base,Base,Web Sales,Web Sales,Web Sales,Web Sales,none,Sum,KPI,yes,na,na,na,na,na,na
+kpi_wv_tx,Base,Base,Web Visits ,Web Visits ,Web Visits ,Web Visits ,min,Sum,KPI,yes,na,na,na,na,na,na
+m_adtvv_cov_im,Media,Addressable TV,Addressable TV,Addressable TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_adtvv_cov_sp,Media,Addressable TV,Addressable TV,Addressable TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_adtvv_post_im,Media,Addressable TV,Addressable TV,Addressable TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_adtvv_post_sp,Media,Addressable TV,Addressable TV,Addressable TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_adtvv_pre_im,Media,Addressable TV,Addressable TV,Addressable TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_adtvv_pre_sp,Media,Addressable TV,Addressable TV,Addressable TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_adtvv_tot_im,Media,Addressable TV,Addressable TV,Addressable TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_adtvv_tot_sp,Media,Addressable TV,Addressable TV,Addressable TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cin_cov_ad,Media,Cinema,Cinema,Cinema,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cin_cov_sp,Media,Cinema,Cinema,Cinema,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cin_post_ad,Media,Cinema,Cinema,Cinema,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cin_post_sp,Media,Cinema,Cinema,Cinema,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cin_pre_ad,Media,Cinema,Cinema,Cinema,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cin_pre_sp,Media,Cinema,Cinema,Cinema,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cin_tot_ad,Media,Cinema,Cinema,Cinema,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cin_tot_sp,Media,Cinema,Cinema,Cinema,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_15s_im,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_15s_sp,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_30s_im,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_30s_sp,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_cov_im,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_cov_sp,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_post_im,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_post_sp,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_pre_im,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_pre_sp,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_tot_im,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_tot_sp,Media,CTV,CTV,CTV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_cov_im,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_cov_sp,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_post_im,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_post_sp,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_pre_im,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_pre_sp,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_tot_cl,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_tot_eng,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_tot_im,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_tot_sp,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_tot_vidst,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ctv_dig_tot_vim,Media,CTV Digital,CTV Digital,CTV Digital,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_prs_cov_cir,Media,Press,Press,Press,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_prs_cov_sp,Media,Press,Press,Press,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_prs_post_cir,Media,Press,Press,Press,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_prs_post_sp,Media,Press,Press,Press,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_prs_pre_cir,Media,Press,Press,Press,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_prs_pre_sp,Media,Press,Press,Press,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_prs_tot_cir,Media,Press,Press,Press,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_prs_tot_sp,Media,Press,Press,Press,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ooh_cov_im,Media,OOH,OOH,OOH,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ooh_cov_sp,Media,OOH,OOH,OOH,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ooh_post_im,Media,OOH,OOH,OOH,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ooh_post_sp,Media,OOH,OOH,OOH,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ooh_pre_im,Media,OOH,OOH,OOH,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ooh_pre_sp,Media,OOH,OOH,OOH,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ooh_tot_im,Media,OOH,OOH,OOH,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ooh_tot_sp,Media,OOH,OOH,OOH,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_fbk_cov_im,Media,Facebook,Facebook,Facebook,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_fbk_cov_sp,Media,Facebook,Facebook,Facebook,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_fbk_post_im,Media,Facebook,Facebook,Facebook,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_fbk_post_sp,Media,Facebook,Facebook,Facebook,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_fbk_pre_im,Media,Facebook,Facebook,Facebook,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_fbk_pre_sp,Media,Facebook,Facebook,Facebook,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_fbk_tot_im,Media,Facebook,Facebook,Facebook,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_fbk_tot_sp,Media,Facebook,Facebook,Facebook,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tik_cov_im,Media,Tiktok,Tiktok,Tiktok,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tik_cov_sp,Media,Tiktok,Tiktok,Tiktok,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tik_post_im,Media,Tiktok,Tiktok,Tiktok,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tik_post_sp,Media,Tiktok,Tiktok,Tiktok,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tik_pre_im,Media,Tiktok,Tiktok,Tiktok,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tik_pre_sp,Media,Tiktok,Tiktok,Tiktok,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tik_tot_im,Media,Tiktok,Tiktok,Tiktok,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tik_tot_sp,Media,Tiktok,Tiktok,Tiktok,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_snap_cov_im,Media,Snapchat,Snapchat,Snapchat,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_snap_cov_sp,Media,Snapchat,Snapchat,Snapchat,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_snap_post_im,Media,Snapchat,Snapchat,Snapchat,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_snap_post_sp,Media,Snapchat,Snapchat,Snapchat,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_snap_pre_im,Media,Snapchat,Snapchat,Snapchat,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_snap_pre_sp,Media,Snapchat,Snapchat,Snapchat,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_snap_tot_im,Media,Snapchat,Snapchat,Snapchat,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_snap_tot_sp,Media,Snapchat,Snapchat,Snapchat,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_pint_cov_im,Media,Pinterest,Pinterest,Pinterest,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_pint_cov_sp,Media,Pinterest,Pinterest,Pinterest,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_pint_post_im,Media,Pinterest,Pinterest,Pinterest,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_pint_post_sp,Media,Pinterest,Pinterest,Pinterest,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_pint_pre_im,Media,Pinterest,Pinterest,Pinterest,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_pint_pre_sp,Media,Pinterest,Pinterest,Pinterest,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_pint_tot_im,Media,Pinterest,Pinterest,Pinterest,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_pint_tot_sp,Media,Pinterest,Pinterest,Pinterest,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_cov_cl,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_cov_im,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_cov_opn,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_cov_sp,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_post_cl,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_post_im,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_post_opn,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_post_sp,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_pre_cl,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_pre_im,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_pre_opn,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_pre_sp,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_tot_cl,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_tot_im,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_tot_opn,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_tot_sp,Media,Prospecting Emails,Prospecting Emails,Prospecting Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_cov_grp,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_cov_im,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_cov_sp,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_post_grp,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_post_im,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_post_sp,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_pre_grp,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_pre_im,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_pre_sp,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_tot_grp,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_tot_im,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_mag_tot_sp,Media,Magazine,Magazine,Magazine,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_120s_egrp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_120s_grp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_120s_sp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_15s_egrp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_15s_grp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_15s_sp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_30s_egrp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_30s_grp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_30s_sp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_60s_egrp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_60s_grp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_60s_sp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_cov_egrp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_cov_grp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_cov_sp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_post_egrp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_post_grp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_post_sp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_pre_egrp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_pre_grp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_pre_sp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_tot_egrp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_tot_grp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvv_tot_sp,Media,National TV,National TV,National TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_cov_cl,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_cov_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_cov_sp,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_cl,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_cov_cl,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_cov_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_cov_sp,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_post_cl,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_post_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_post_sp,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_pre_cl,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_pre_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_pre_sp,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_nonprg_sp,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_post_cl,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_post_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_post_sp,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_pre_cl,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_pre_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_pre_sp,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_prg_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_prg_pre_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_tot_cl,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_tot_im,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cstcon_tot_sp,Media,Custom Content,Custom Content,Custom Content,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_cov_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_cov_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_cov_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_cov_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_cov_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_cov_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_post_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_post_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_post_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_pre_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_pre_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_pre_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_nonprg_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_post_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_post_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_post_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_pre_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_pre_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_pre_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_prg_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_prg_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_prg_post_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_prg_post_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_prg_post_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_prg_pre_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_prg_pre_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_prg_pre_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_prg_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_tot_cl,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_tot_im,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_digaud_tot_sp,Media,Digital Audio,Digital Audio,Digital Audio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_cov_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_cov_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_cov_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_cov_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_cov_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_post_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_post_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_post_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_pre_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_pre_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_pre_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_nonprg_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_post_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_post_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_post_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_pre_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_pre_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_pre_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_cov_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_cov_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_cov_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_post_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_pre_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_pre_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_pre_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_prg_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_tot_cl,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_tot_im,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_nat_tot_sp,Media,Digital Native,Digital Native,Digital Native,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_cov_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_cov_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_cov_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_cov_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_cov_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_cov_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_post_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_post_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_post_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_pre_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_pre_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_pre_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_nonprg_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_post_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_post_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_post_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_pre_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_pre_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_pre_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_cov_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_cov_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_cov_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_post_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_post_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_post_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_pre_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_pre_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_pre_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_prg_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_tot_cl,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_tot_im,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_rchmed_tot_sp,Media,Rich Media,Rich Media,Rich Media,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_cov_cl,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_cov_im,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_nonprg_cl,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_nonprg_cov_cl,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_nonprg_cov_im,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_nonprg_im,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_nonprg_post_cl,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_nonprg_post_im,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_nonprg_post_sp,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_nonprg_sp,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_post_cl,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_post_im,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_post_sp,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_tot_cl,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_tot_im,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spons_tot_sp,Media,Digital Sponsorship,Digital Sponsorship,Digital Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_cov_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_cov_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_cov_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_cov_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_cov_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_cov_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_post_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_post_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_post_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_pre_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_pre_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_pre_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_nonprg_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_post_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_post_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_post_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_pre_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_pre_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_pre_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_cov_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_cov_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_cov_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_post_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_post_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_post_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_pre_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_pre_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_pre_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_prg_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_tot_cl,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_tot_im,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_stddsp_tot_sp,Media,Standard Display,Standard Display,Standard Display,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_cov_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_cov_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_cov_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_cov_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_cov_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_cov_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_post_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_post_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_post_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_pre_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_pre_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_pre_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_nonprg_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_post_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_post_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_post_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_pre_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_pre_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_pre_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_cov_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_cov_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_cov_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_post_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_post_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_post_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_pre_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_pre_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_pre_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_prg_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_tot_cl,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_tot_im,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_vid_tot_sp,Media,Video,Video,Video,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_120s_egrp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_120s_grp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_120s_sp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_15s_egrp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_15s_grp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_15s_sp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_30s_egrp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_30s_grp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_30s_sp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_60s_egrp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_60s_grp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_60s_sp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_cov_egrp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_cov_grp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_cov_sp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_post_egrp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_post_grp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_post_sp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_pre_egrp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_pre_grp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_pre_sp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_tot_egrp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_tot_grp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spttvv_tot_sp,Media,Spot TV,Spot TV,Spot TV,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_10s_egrp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_10s_grp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_10s_sp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_15s_egrp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_15s_grp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_15s_sp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_1s_egrp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_1s_grp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_1s_sp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_30s_egrp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_30s_grp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_30s_sp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_60s_egrp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_60s_grp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_60s_sp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_cov_egrp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_cov_grp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_cov_sp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_post_egrp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_post_grp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_post_sp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_pre_egrp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_pre_grp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_pre_sp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_tot_egrp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_tot_grp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_spotrad_tot_sp,Media,Spot Radio,Spot Radio,Spot Radio,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_cl,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_cov_cl,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_cov_im,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_cov_sp,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_im,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_post_cl,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_post_im,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_post_sp,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_pre_cl,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_pre_im,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_pre_sp,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_bra_sp,Media,Paid Search Brand,Paid Search Brand,Paid Search Brand,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_cov_cl,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_cov_im,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_cov_sp,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_cl,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_cov_cl,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_cov_im,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_cov_sp,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_im,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_post_cl,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_post_im,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_post_sp,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_pre_cl,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_pre_im,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_pre_sp,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_fbased_sp,Media,Paid Search Feed Based,Paid Search Feed Based,Paid Search Feed Based,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_cl,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_cov_cl,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_cov_im,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_cov_sp,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_im,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_post_cl,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_post_im,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_post_sp,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_pre_cl,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_pre_im,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_pre_sp,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_gen_sp,Media,Paid Search Generic,Paid Search Generic,Paid Search Generic,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_post_cl,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_post_im,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_post_sp,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_pre_cl,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_pre_im,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_pre_sp,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_tot_cl,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_tot_im,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_ppc_tot_sp,Media,Paid Search,Paid Search,Paid Search,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_cov_cl,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_cov_opn,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_cov_sent,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_cov_sp,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_loc_cl,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_loc_opn,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_loc_sent,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_loc_sp,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_nat_cl,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_nat_opn,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_nat_sent,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_nat_sp,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_post_cl,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_post_opn,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_post_sent,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_post_sp,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_pre_cl,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_pre_opn,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_pre_sent,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_pre_sp,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_targ_cl,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_targ_opn,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_targ_sent,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_targ_sp,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_tot_cl,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_tot_opn,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_tot_sent,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_tot_sp,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_trig_cl,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_trig_opn,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_trig_sent,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_eml_nonfam_trig_sp,Media,Non Family Emails,Non Family Emails,Non Family Emails,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_15s_egrp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_15s_grp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_15s_sp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_cov_egrp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_cov_grp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_cov_sp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_post_egrp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_post_grp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_post_sp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_pre_egrp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_pre_grp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_pre_sp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_tot_egrp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_tot_grp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_tvspon_tot_sp,Media,TV Sponsorship,TV Sponsorship,TV Sponsorship,Media,Media,none,Sum,Media,yes,na,na,na,na,na,na
+m_cat_dist_sp,Media,Catalog,Catalog,Catalog,Media,Media,none,Sum,Catalog,yes,na,na,na,na,na,na
+m_cat_dist_vo,Media,Catalog,Catalog,Catalog,Media,Media,none,Sum,Catalog,yes,na,na,na,na,na,na
+m_cat_prod_sp,Media,Catalog,Catalog,Catalog,Media,Media,none,Sum,Catalog,yes,na,na,na,na,na,na
+m_cat_tot_sp,Media,Catalog,Catalog,Catalog,Media,Media,none,Sum,Catalog,yes,na,na,na,na,na,na
+m_cat_tot_vo,Media,Catalog,Catalog,Catalog,Media,Media,none,Sum,Catalog,yes,na,na,na,na,na,na
+fam_eml_cov_cl,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_cov_opn,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_cov_sent,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_cov_sp,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_loc_cl,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_loc_opn,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_loc_sent,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_loc_sp,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_nat_cl,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_nat_opn,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_nat_sent,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_nat_sp,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_post_cl,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_post_opn,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_post_sent,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_post_sp,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_pre_cl,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_pre_opn,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_pre_sent,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_pre_sp,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_targ_cl,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_targ_opn,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_targ_sent,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_targ_sp,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_tot_cl,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_tot_opn,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_tot_sent,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_tot_sp,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_trig_cl,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_trig_opn,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_trig_sent,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_eml_trig_sp,Media,Family Email,Family Email,Family Email,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_dm_sp,Media,Family DM,Family DM,Family DM,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+fam_dm_vol,Media,Family DM,Family DM,Family DM,Media,Media,none,Sum,Family,yes,na,na,na,na,na,na
+org_fb_cl,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_fb_comm,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_fb_ctr,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_fb_engr,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_fb_im,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_fb_int,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_fb_reac,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_fb_reach,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_fb_shares,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_fb_vidv,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_inst_comm,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_inst_engr,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_inst_im,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_inst_int,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_inst_likes,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_inst_reach,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_inst_save,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_inst_view,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_pin_click,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_pin_imp,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_pin_out_click,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+org_pin_sav,Base,Base,Organic Social,Organic Social,Organic Social,Organic Social,none,Sum,Organic Social,yes,na,na,na,na,na,na
+seo_tot,Base,Base,SEO,SEO,Base,Base,none,Sum,SEO,yes,na,na,na,na,na,na
+bh_blkfri,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_boxday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_canday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_civic,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_colday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_cybrmon,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_eastmon,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_eastsun,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_famday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_fthrday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_gdfri,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_hlwn,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_indday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_islndrday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_laborday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_memday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_mlkday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_mthrday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_nyday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_nyeve,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_presday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_rmbrday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_stpatsday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_thnksgiv,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_valday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_vicday,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_xms,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+bh_xmseve,Base,Base,National Holidays,National Holidays,Base,Base,none,Sum,National Holidays,yes,na,na,na,na,na,na
+se_sprbwl,Base,Base,Sporting Events,Sporting Events,Sporting Events,Sporting Events,none,Sum,Sporting Events,yes,na,na,na,na,na,na
+ww_prcp_tot,Base,Base,Weather,Weather,Base,Base,none,Sum,Base,yes,na,na,na,na,na,na
+ww_rain_tot,Base,Base,Weather,Weather,Base,Base,none,Sum,Base,yes,na,na,na,na,na,na
+ww_snw_tot,Base,Base,Weather,Weather,Base,Base,none,Sum,Base,yes,na,na,na,na,na,na
+ww_tmp_avg,Base,Base,Weather,Weather,Base,Base,none,Sum,Base,yes,na,na,na,na,na,na
+ww_tmp_avgclc,Base,Base,Weather,Weather,Base,Base,none,Sum,Base,yes,na,na,na,na,na,na
+ww_tmp_max,Base,Base,Weather,Weather,Base,Base,none,Sum,Base,yes,na,na,na,na,na,na
+ww_tmp_min,Base,Base,Weather,Weather,Base,Base,none,Sum,Base,yes,na,na,na,na,na,na
+x_cc,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_cc_3mma,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_cpi,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_dies_gasprice_all,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_dwjnes_close,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_dwjnes_high,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_dwjnes_low,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_dwjnes_open,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_ers,Base,Base,Ecommerce Expansion,Ecommerce Expansion,Ecommerce Expansion,Ecommerce Expansion,none,Sum,Macro,yes,na,na,na,na,na,na
+x_gasprice_all,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_gasprice_conv,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_gasprice_refo,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_int_index,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_intrst_rte,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_nasdaq_adj_close,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_nasdaq_close,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_nasdaq_high,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_nasdaq_low,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_nasdaq_open,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_nasdaq_vol,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_nhs,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_retail_hmefurn,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_rtl_index,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_sp500_adj_close,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_sp500_close,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_sp500_high,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_sp500_low,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_sp500_open,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_sp500_vol,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_unm_rte,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+x_xr,Base,Base,Macro,Macro,Macro,Macro,none,Sum,Macro,yes,na,na,na,na,na,na
+wv_affil,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+wv_dir,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+wv_disp,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+wv_email,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+wv_org_search,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+wv_oth,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+wv_oth_adv,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+wv_ppc,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+wv_refer,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+wv_soc,Base,Base,Web Visits Source,Web Visits Source,Web Visits,Web Visits,none,Sum,Web Visits Source,yes,na,na,na,na,na,na
+gt_armch,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_bathroom,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_bed,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_bedroom,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_bookc,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_bufcab,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_comdsk,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_couch,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_desk,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_dinch,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_dress,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_dskch,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_furn,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_gamch,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_gamdsk,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_grdfurn,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_homdec,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_homefurn,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_kidsfurn,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_kitchen,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_livroom,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_matt,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_nursfurn,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_offch,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_patiofurn,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_shelv,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_sofa,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_stor,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_storcab,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_storcont,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_table,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_tvstand,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+gt_wardrobe,Base,Base,Google Trends,Google Trends,Google Trends,Google Trends,none,Sum,Google Trends,yes,na,na,na,na,na,na
+bw_earn_im,Base,Base,Brand Watch Earn,Brand Watch Earn,Brand Watch Earn,Brand Watch Earn,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_earn_reach,Base,Base,Brand Watch Earn,Brand Watch Earn,Brand Watch Earn,Brand Watch Earn,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_earn_vol,Base,Base,Brand Watch Earn,Brand Watch Earn,Brand Watch Earn,Brand Watch Earn,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_neg_im,Base,Base,Brand Watch Negative,Brand Watch Negative,Brand Watch Negative,Brand Watch Negative,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_neg_reach,Base,those ,Brand Watch Negative,Brand Watch Negative,Brand Watch Negative,Brand Watch Negative,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_neg_vol,Base,Base,Brand Watch Negative,Brand Watch Negative,Brand Watch Negative,Brand Watch Negative,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_neu_im,Base,Base,Brand Watch Neutral,Brand Watch Neutral,Brand Watch Neutral,Brand Watch Neutral,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_neu_reach,Base,Base,Brand Watch Neutral,Brand Watch Neutral,Brand Watch Neutral,Brand Watch Neutral,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_neu_vol,Base,Base,Brand Watch Neutral,Brand Watch Neutral,Brand Watch Neutral,Brand Watch Neutral,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_own_im,Base,Base,Brand Watch Own,Brand Watch Own,Brand Watch Own,Brand Watch Own,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_own_reach,Base,Base,Brand Watch Own,Brand Watch Own,Brand Watch Own,Brand Watch Own,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_own_vol,Base,Base,Brand Watch Own,Brand Watch Own,Brand Watch Own,Brand Watch Own,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_pos_im,Base,Base,Brand Watch Positive,Brand Watch Positive,Brand Watch Positive,Brand Watch Positive,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_pos_reach,Base,Base,Brand Watch Positive,Brand Watch Positive,Brand Watch Positive,Brand Watch Positive,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bw_pos_vol,Base,Base,Brand Watch Positive,Brand Watch Positive,Brand Watch Positive,Brand Watch Positive,none,Sum,Brand Watch,yes,na,na,na,na,na,na
+bm_awatocons_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_awatocons_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_brdesire_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_dif_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_emotmean_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_globalpurp_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_insp_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_localenabler_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_penetr_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_posimp_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_purchint_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_rangeappeal_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tbca_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tomawa_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tru_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_tsawa_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_uncons_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_10mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_11mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_12mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_13mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_14mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_15mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_3mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_4mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_5mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_6mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_7mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_8mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+bm_valprop_pc_9mav,Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
+c_ama_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_ash_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_bbb_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_homed_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_homeg_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_ikea_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_low_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_mac_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_overs_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_roomst_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_tar_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_tot_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_wal_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_way_sp,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor,yes,na,na,na,na,na,na
+c_bm_ama_awatocons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_brdesire_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_dif_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_emotmean_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_insp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_penetr_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_posimp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_purchint_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_tbca_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_tomawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_tru_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_tsawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_uncons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ama_valprop_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_awatocons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_brdesire_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_dif_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_emotmean_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_insp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_penetr_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_posimp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_purchint_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_tbca_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_tomawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_tru_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_tsawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_uncons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_ash_valprop_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_awatocons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_brdesire_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_dif_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_emotmean_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_insp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_penetr_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_posimp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_purchint_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_tbca_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_tomawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_tru_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_tsawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_uncons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_bbb_valprop_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_awatocons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_brdesire_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_dif_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_emotmean_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_insp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_penetr_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_posimp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_purchint_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_tbca_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_tomawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_tru_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_tsawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_uncons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_overs_valprop_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_awatocons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_brdesire_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_dif_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_emotmean_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_insp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_penetr_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_posimp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_purchint_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_tbca_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_tomawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_tru_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_tsawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_uncons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_tar_valprop_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_awatocons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_brdesire_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_dif_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_emotmean_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_insp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_penetr_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_posimp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_purchint_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_tbca_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_tomawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_tru_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_tsawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_uncons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_wal_valprop_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_awatocons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_brdesire_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_dif_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_emotmean_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_insp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_penetr_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_posimp_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_purchint_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_tbca_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_tomawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_tru_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_tsawa_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_uncons_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+c_bm_way_valprop_pc,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Brand Health,yes,na,na,na,na,na,na
+pr_fy18_corp_tot_im,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_fy18_exp_imp,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_fy18_prod_tot_im,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_fy18_tot_im,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_tot_im,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_infl_cl,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_infl_eng,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_infl_im,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_infl_sp,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_infl_views,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+pr_tot_im_tx,Base,Base,PR,PR,PR,PR,none,Sum,PR,yes,na,na,na,na,na,na
+osa_hfb1,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb10,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb11,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb12,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb13,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb14,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb15,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb16,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb17,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb18,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb19,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb2,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb20,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb3,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb4,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb5,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb50,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb6,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb7,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb70,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb8,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_hfb9,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+osa_total,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+pro_appl_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_b2c_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_bdrm_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_bthrm_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_fameve_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_kit_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_livingrm_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_mlk_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_org_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_overstock_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_sal_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_spcactvty_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_spcprod_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_spcprodfam_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+pro_sprbwl_d,Promotions,Base,Promotions,Promotions,Promotions,Promotions,none,Sum,Promotions,yes,na,na,na,na,na,na
+oos_s1,Base,Base,Out of Stock,Out of Stock,Out of Stock,Out of Stock,none,Sum,Out of Stock,yes,na,na,na,na,na,na
+oos_s2,Base,Base,Out of Stock,Out of Stock,Out of Stock,Out of Stock,none,Sum,Out of Stock,yes,na,na,na,na,na,na
+oos_s3,Base,Base,Out of Stock,Out of Stock,Out of Stock,Out of Stock,none,Sum,Out of Stock,yes,na,na,na,na,na,na
+oos_s4,Base,Base,Out of Stock,Out of Stock,Out of Stock,Out of Stock,none,Sum,Out of Stock,yes,na,na,na,na,na,na
+oos_tot,Base,Base,Out of Stock,Out of Stock,Out of Stock,Out of Stock,none,Sum,Out of Stock,yes,na,na,na,na,na,na
+sa_conv_rt,Base,Base,Shoppable App,Shoppable App,Shoppable App,Shoppable App,none,Sum,Shoppable App,yes,na,na,na,na,na,na
+sa_down_andr,Base,Base,Shoppable App,Shoppable App,Shoppable App,Shoppable App,none,Sum,Shoppable App,yes,na,na,na,na,na,na
+sa_down_ios,Base,Base,Shoppable App,Shoppable App,Shoppable App,Shoppable App,none,Sum,Shoppable App,yes,na,na,na,na,na,na
+sa_down_tot,Base,Base,Shoppable App,Shoppable App,Shoppable App,Shoppable App,none,Sum,Shoppable App,yes,na,na,na,na,na,na
+sa_no_ord,Base,Base,Shoppable App,Shoppable App,Shoppable App,Shoppable App,none,Sum,Shoppable App,yes,na,na,na,na,na,na
+sa_rev,Base,Base,Shoppable App,Shoppable App,Shoppable App,Shoppable App,none,Sum,Shoppable App,yes,na,na,na,na,na,na
+sa_ses,Base,Base,Shoppable App,Shoppable App,Shoppable App,Shoppable App,none,Sum,Shoppable App,yes,na,na,na,na,na,na
+sa_users,Base,Base,Shoppable App,Shoppable App,Shoppable App,Shoppable App,none,Sum,Shoppable App,yes,na,na,na,na,na,na
+new_stock_onl_hfb01,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb02,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb03,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb04,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb05,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb06,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb07,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb08,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb09,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb10,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb11,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb12,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb13,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb14,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb15,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb16,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb17,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb18,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb19,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb20,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb50,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb70,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_hfb92,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+new_stock_onl_tot,Base,Base,New Stock Online,New Stock Online,New Stock Online,New Stock Online,none,Sum,New Stock Online,yes,na,na,na,na,na,na
+webdc_desktopsite_optimisation,Base,Base,Web Design Changes,Web Design Changes,Web Design Changes,Web Design Changes,none,Sum,Web Design Changes,yes,na,na,na,na,na,na
+webdc_mobilesite_migration,Base,Base,Web Design Changes,Web Design Changes,Web Design Changes,Web Design Changes,none,Sum,Web Design Changes,yes,na,na,na,na,na,na
+webdc_mobilesite_optimisation,Base,Base,Web Design Changes,Web Design Changes,Web Design Changes,Web Design Changes,none,Sum,Web Design Changes,yes,na,na,na,na,na,na
+webdc_oneweb_launch,Base,Base,Web Design Changes,Web Design Changes,Web Design Changes,Web Design Changes,none,Sum,Web Design Changes,yes,na,na,na,na,na,na
+webdc_taskrabbit_integration,Base,Base,Web Design Changes,Web Design Changes,Web Design Changes,Web Design Changes,none,Sum,Web Design Changes,yes,na,na,na,na,na,na
+webdc_taskrabbit_optimisations,Base,Base,Web Design Changes,Web Design Changes,Web Design Changes,Web Design Changes,none,Sum,Web Design Changes,yes,na,na,na,na,na,na
+webdc_usdh_custexp,Base,Base,Web Design Changes,Web Design Changes,Web Design Changes,Web Design Changes,none,Sum,Web Design Changes,yes,na,na,na,na,na,na
+p_hfb1,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb10,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb11,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb12,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb13,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb14,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb15,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb16,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb17,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb18,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb19,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb2,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb20,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb3,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb4,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb5,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb50,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb6,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb7,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb70,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb8,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb9,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_hfb92,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+p_tot,Base,Base,Price Change,Price Change,Price Change,Price Change,none,Sum,Price Change,yes,na,na,na,na,na,na
+custserv_t1_ordst,Base,Base,Customer Services Center,Customer Services Center,Customer Services Center,Customer Services Center,none,Sum,Customer Services Center,yes,na,na,na,na,na,na
+custserv_t1_tot,Base,Base,Customer Services Center,Customer Services Center,Customer Services Center,Customer Services Center,none,Sum,Customer Services Center,yes,na,na,na,na,na,na
+custserv_opnhrs,Base,Base,Customer Services Center,Customer Services Center,Customer Services Center,Customer Services Center,none,Sum,Customer Services Center,yes,na,na,na,na,na,na
+custserv_stock,Base,Base,Customer Services Center,Customer Services Center,Customer Services Center,Customer Services Center,none,Sum,Customer Services Center,yes,na,na,na,na,na,na
+fam_meg_ev,Base,Base,Family Events,Family Events,Family Events,Family Events,none,Sum,Family Events,yes,na,na,na,na,na,na
+pulse_cx,Base,Base,Pulse CX,Pulse CX,Pulse CX,Pulse CX,none,Sum,Pulse CX,yes,na,na,na,na,na,na
+pulse_cx_w,Base,Base,Pulse CX,Pulse CX,Pulse CX,Pulse CX,none,Sum,Pulse CX,yes,na,na,na,na,na,na
+coll_inc_ikea_pup_tru,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+coll_inc_pup_par,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+coll_inc_pup_str,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+coll_no_ikea_pup_tru,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+coll_no_pup_par,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+coll_no_pup_str,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+coll_val_ikea_pup_tru,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+coll_val_pup_par,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+coll_val_pup_str,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_inc_assem,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_inc_assem_inst,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_inc_del,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_inc_pick_handl,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_inc_plan_adv,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_inc_plan_meas,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_inc_rem_recycl,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_no_assem,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_no_assem_inst,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_no_del,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_no_pick_handl,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_no_plan_adv,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_no_plan_meas,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_no_rem_recycl,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_val_assem,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_val_assem_inst,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_val_del,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_val_pick_handl,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_val_plan_adv,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_val_plan_meas,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+serv_val_rem_recycl,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+d_stropn_508,Base,Base,Store Open,Store Open,Store Open,Store Open,none,Sum,Store Open,yes,na,na,na,na,na,na
+d_stropn_511,Base,Base,Store Open,Store Open,Store Open,Store Open,none,Sum,Store Open,yes,na,na,na,na,na,na
+d_stropn_535,Base,Base,Store Open,Store Open,Store Open,Store Open,none,Sum,Store Open,yes,na,na,na,na,na,na
+d_stropn_536,Base,Base,Store Open,Store Open,Store Open,Store Open,none,Sum,Store Open,yes,na,na,na,na,na,na
+d_stropn_537,Base,Base,Store Open,Store Open,Store Open,Store Open,none,Sum,Store Open,yes,na,na,na,na,na,na
+d_stropn_560,Base,Base,Store Open,Store Open,Store Open,Store Open,none,Sum,Store Open,yes,na,na,na,na,na,na
+d_stropn_569,Base,Base,Store Open,Store Open,Store Open,Store Open,none,Sum,Store Open,yes,na,na,na,na,na,na
+d_stropn_570,Base,Base,Store Open,Store Open,Store Open,Store Open,none,Sum,Store Open,yes,na,na,na,na,na,na
+d_stropn_622,Base,Base,Store Open,Store Open,Store Open,Store Open,none,Sum,Store Open,yes,na,na,na,na,na,na
+d_strrepl_399,Base,Base,Store Replacement,Store Replacement,Store Replacement,Store Replacement,none,Sum,Store Replacement,yes,na,na,na,na,na,na
+d_strrepl_488,Base,Base,Store Replacement,Store Replacement,Store Replacement,Store Replacement,none,Sum,Store Replacement,yes,na,na,na,na,na,na
+cov_click_col_tot,Base,Base,Covid C&C Start,Covid C&C Start,COVID,COVID,none,Sum,Covid C&C Start,yes,na,na,na,na,na,na
+cov_click_del_tot,Base,Base,Covid C&D Start,Covid C&D Start,COVID,COVID,none,Sum,Covid C&D Start,yes,na,na,na,na,na,na
+cov_store_clos_tot,Base,Base,Covid Store Closed,Covid Store Closed,COVID,COVID,none,Sum,Covid Store Closed,yes,na,na,na,na,na,na
+cov_store_open_tot,Base,Base,Covid Store Opened,Covid Store Opened,COVID,COVID,none,Sum,Covid Store Opened,yes,na,na,na,na,na,na
+mob_goog_groc_pharm,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+mob_goog_parks,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+mob_goog_res,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+mob_goog_rtl_recr,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+mob_goog_transtation,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+mob_goog_work,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+mob_apple_driv,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+mob_apple_tran,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+mob_apple_walk,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+cov_gt_corona_virus,Base,Base,Covid Gtrends,Covid Gtrends,COVID,COVID,none,Sum,Covid Gtrends,yes,na,na,na,na,na,na
+cov_gt_coronavirus,Base,Base,Covid Gtrends,Covid Gtrends,COVID,COVID,none,Sum,Covid Gtrends,yes,na,na,na,na,na,na
+cov_gt_covid,Base,Base,Covid Gtrends,Covid Gtrends,COVID,COVID,none,Sum,Covid Gtrends,yes,na,na,na,na,na,na
+cov_gt_covid_19,Base,Base,Covid Gtrends,Covid Gtrends,COVID,COVID,none,Sum,Covid Gtrends,yes,na,na,na,na,na,na
+cov_gt_covid19,Base,Base,Covid Gtrends,Covid Gtrends,COVID,COVID,none,Sum,Covid Gtrends,yes,na,na,na,na,na,na
+cov_restrictions_reg_at,Base,Base,Covid Restrictions,Covid Restrictions,COVID,COVID,none,Sum,Covid Restrictions,yes,na,na,na,na,na,na
+cov_restrictions_reg_ch,Base,Base,Covid Restrictions,Covid Restrictions,COVID,COVID,none,Sum,Covid Restrictions,yes,na,na,na,na,na,na
+cov_restrictions_reg_dc,Base,Base,Covid Restrictions,Covid Restrictions,COVID,COVID,none,Sum,Covid Restrictions,yes,na,na,na,na,na,na
+cov_restrictions_reg_de,Base,Base,Covid Restrictions,Covid Restrictions,COVID,COVID,none,Sum,Covid Restrictions,yes,na,na,na,na,na,na
+cov_restrictions_reg_la,Base,Base,Covid Restrictions,Covid Restrictions,COVID,COVID,none,Sum,Covid Restrictions,yes,na,na,na,na,na,na
+cov_restrictions_reg_ny,Base,Base,Covid Restrictions,Covid Restrictions,COVID,COVID,none,Sum,Covid Restrictions,yes,na,na,na,na,na,na
+cov_restrictions_reg_sanfr,Base,Base,Covid Restrictions,Covid Restrictions,COVID,COVID,none,Sum,Covid Restrictions,yes,na,na,na,na,na,na
+cov_restrictions_reg_tx,Base,Base,Covid Restrictions,Covid Restrictions,COVID,COVID,none,Sum,Covid Restrictions,yes,na,na,na,na,na,na
+cov_peuc,Base,Base,Covid Relief Funds,Covid Relief Funds,COVID,COVID,none,Sum,Covid Relief Funds,yes,na,na,na,na,na,na
+cov_pua,Base,Base,Covid Relief Funds,Covid Relief Funds,COVID,COVID,none,Sum,Covid Relief Funds,yes,na,na,na,na,na,na
+cov_reg_peuc_out,Base,Base,Covid Relief Funds,Covid Relief Funds,COVID,COVID,none,Sum,Covid Relief Funds,yes,na,na,na,na,na,na
+cov_reg_pua_out,Base,Base,Covid Relief Funds,Covid Relief Funds,COVID,COVID,none,Sum,Covid Relief Funds,yes,na,na,na,na,na,na
+cov_cases,Base,Base,Covid Total Cases,Covid Total Cases,COVID,COVID,none,Sum,Covid Total Cases,yes,na,na,na,na,na,na
+cov_deaths,Base,Base,Covid New Deaths,Covid New Deaths,COVID,COVID,none,Sum,Covid New Deaths,yes,na,na,na,na,na,na
+cov_deaths_tot,Base,Base,Covid Total Deaths,Covid Total Deaths,COVID,COVID,none,Sum,Covid Total Deaths,yes,na,na,na,na,na,na
+fam_coup_qty_anniv,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_bbag,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_birth,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_comp,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_eartd,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_giftr,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_julb,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_malm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_megaev,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_newm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_sfm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_spec,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_visawel,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_welc,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_wint,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_qty_wkcoup,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tot_qty,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tot_sal,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tot_tick,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tot_trans,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_anniv,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_bbag,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_birth,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_comp,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_eartd,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_giftr,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_julb,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_malm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_megaev,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_newm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_sfm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_spec,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_visawel,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_welc,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_wint,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_totsal_wkcoup,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_anniv,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_bbag,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_birth,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_comp,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_eartd,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_giftr,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_julb,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_malm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_megaev,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_newm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_sfm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_spec,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_visawel,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_welc,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_wint,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_tottick_wkcoup,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_anniv,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_bbag,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_birth,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_comp,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_eartd,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_giftr,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_julb,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_malm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_megaev,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_newm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_sfm,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_spec,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_visawel,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_welc,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_wint,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+fam_coup_trans_wkcoup,Base,Base,Family Coupon,Family Coupon,Family Coupon,Family Coupon,none,Sum,Family Coupon,yes,na,na,na,na,na,na
+nat_dis_flood_mich,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_dis_flood_wash,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_dis_flood_wisc,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_dis_high_wind_utah,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_dis_hur_eta,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_dis_hur_hanna_ny,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_dis_hur_isaias_ny,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_dis_hur_laura_tx,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_dis_trop_zeta,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_dis_wint_st_tx,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_earthq_2018alaska,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_earthq_2019california,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_earthq_2019oregon,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_earthq_2020alaska,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_earthq_2020idaho,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_earthq_2020nevada,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_earthq_2020saltlake,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_earthq_2020sparta,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_hurric_dorian,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_hurric_lorenzo,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_hurric_michael,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_tropstorm_bertha,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_tropstorm_cristobal,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_tropstorm_fay,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_wildfires_la,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_wildfires_sanfr,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+nat_disaster_wildfires_tot,Base,Base,Natural Disaster,Natural Disaster,Base,Base,none,Sum,Natural Disaster,yes,na,na,na,na,na,na
+fb_pause_1,Base,Base,Facebook Pause,Facebook Pause,Facebook Pause,Facebook Pause,none,Sum,Facebook Pause,yes,na,na,na,na,na,na
+fb_pause_2,Base,Base,Facebook Pause,Facebook Pause,Facebook Pause,Facebook Pause,none,Sum,Facebook Pause,yes,na,na,na,na,na,na
+fb_pause_3,Base,Base,Facebook Pause,Facebook Pause,Facebook Pause,Facebook Pause,none,Sum,Facebook Pause,yes,na,na,na,na,na,na
+coll_fedex_pup_parcel,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+cov_click_col_price,Base,Base,COV C&C Price,COV C&C Price,COVID,COVID,none,Sum,COV C&C Price,yes,na,na,na,na,na,na
+dis_del_start,Base,Base,Delivery Start,Delivery Start,Delivery Start,Delivery Start,none,Sum,Delivery Start,yes,na,na,na,na,na,na
+dis_pdel_dcr1,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_pdel_inc1,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_pdel_inc2,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_dcr1,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc1,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc10,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc11,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc12,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc13,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc14,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc15,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc2,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc3,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc4,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc5,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc6,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc7,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc8,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_inc9,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+dis_tdel_stat_inc1,Base,Base,Delivery Price Change,Delivery Price Change,Delivery Price Change,Delivery Price Change,none,Sum,Delivery Price Change,yes,na,na,na,na,na,na
+osa_reg_tx,Base,Base,OSA,OSA,OSA,OSA,none,Sum,OSA,yes,na,na,na,na,na,na
+webdc_m2_start,Base,Base,Web Design Changes,Web Design Changes,Web Design Changes,Web Design Changes,none,Sum,Web Design Changes,yes,na,na,na,na,na,na
+sh_firstd,Base,Base,School Holidays,School Holidays,Base,Base,none,Sum,School Holidays Thanksgiving,yes,na,na,na,na,na,na
+sh_thnksgiv,Base,Base,School Holidays,School Holidays,Base,Base,none,Sum,School Holidays First Day of School,yes,na,na,na,na,na,na
+sh_xmas,Base,Base,School Holidays,School Holidays,Base,Base,none,Sum,School Holidays Christmas,yes,na,na,na,na,na,na
+sh_spr,Base,Base,School Holidays,School Holidays,Base,Base,none,Sum,School Holidays Spring break,yes,na,na,na,na,na,na
+sh_win,Base,Base,School Holidays,School Holidays,Base,Base,none,Sum,School Holidays Windet,yes,na,na,na,na,na,na
+sh_lastd,Base,Base,School Holidays,School Holidays,Base,Base,none,Sum,School Holidays Last Day of School,yes,na,na,na,na,na,na
+sh_sum,Base,Base,School Holidays,School Holidays,Base,Base,none,Sum,School Holidays Summer,yes,na,na,na,na,na,na
+sh_tot,Base,Base,School Holidays,School Holidays,Base,Base,none,Sum,School Holidays All,yes,na,na,na,na,na,na
+c_gt_ama_furn_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_ama_offch_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_ama_table_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_ama_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_ama_bedroom_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_ama_matt_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_ama_wardrobe_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_ash_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_bbb_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_tar_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_wal_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_way_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_c_tot_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_rooms_mi,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_nebra_tx,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+cov_sto_open_tx,Base,Base,Covid Store Re-opening,Covid Store Re-opening,COVID,COVID,none,Sum,Covid Store Re-opening for Texas,yes,na,na,na,na,na,na
+cov_sto_open_tx_80dec,Base,Base,Covid Store Re-opening,Covid Store Re-opening,COVID,COVID,none,Sum,Covid Store Re-opening for Texas,yes,na,na,na,na,na,na
+covid_gm_retail_TX,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_TX,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_TX,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_TX,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_TX,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_TX,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_DC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_DC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_DC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_DC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_DC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_DC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_SF,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_SF,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_SF,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_SF,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_SF,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_SF,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_CA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_CA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_CA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_CA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_CA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_CA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_LA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_LA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_LA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_LA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_LA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_LA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_CH,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_CH,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_CH,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_CH,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_CH,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_CH,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_IL,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_IL,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_IL,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_IL,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_IL,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_IL,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_DR,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_DV,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_DV,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_DV,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_DV,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_DV,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_CO,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_CO,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_CO,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_CO,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_CO,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_CO,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_AA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_AA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_AA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_AA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_AA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_AA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_GA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_GA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_GA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_GA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_GA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_GA,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_NY,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_NY,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_NY,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_NY,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_NY,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_NY,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_retail_NYC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_grocery_NYC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_parks_NYC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_transit_NYC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_work_NYC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+covid_gm_resid_NYC,Base,Base,Covid Mobility,Covid Mobility,COVID,COVID,none,Sum,Covid Mobility,yes,na,na,na,na,na,na
+gt_ama,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_bedroom,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_furn,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_matt,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_offch,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_table,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_wardrobe,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ash,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+c_gt_bbb,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_tar,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_wal,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_way,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_furn_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_offch_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_table_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_bedroom_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_matt_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ama_wardrobe_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_ash_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_bbb_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_tar_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_wal_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_way_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_c_tot_ratio,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_rooms_mi,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+gt_nebra_tx,Base,Base,Competitor,Competitor,Competitor,Competitor,none,Sum,Competitor Google Trends ratio over IKEA,yes,na,na,na,na,na,na
+serv_inc_del40k,Base,Base,Services & Collections,Services & Collections,Services & Collections,Services & Collections,none,Sum,Services & Collections,yes,na,na,na,na,na,na
+"rollapply(bm_tru_pc, 3, mean, fill = NA, align = ""right"")",Brand,Brand,Brand,Brand,Brand,Brand,none,Sum,Brand,yes,na,na,na,na,na,na
